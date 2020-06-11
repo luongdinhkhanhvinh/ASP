@@ -1,0 +1,30 @@
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+D:\New folder\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+C:\Users\ACER\Desktop\0306171098_LuongDinhKhanhVinh\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+C:\New folder\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache

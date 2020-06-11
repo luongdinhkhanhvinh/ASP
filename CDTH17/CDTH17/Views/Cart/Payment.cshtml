@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Payment";
+}
+
+@using CDTH17.Models.Entities;
+@model List<CartItem>
+@{
+    ViewBag.Title = "Payment";
+}
+ <div class="content">
+  <div class="section group">
+        @if (Model.Count > 0)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td>Mã SP</td>
+                        <td>Tên SP</td>
+                        <td>Ảnh SP</td>
+                        <td>Số lượng</td>
+                        <td>Đơn giá</td>
+                        <td>Thành tiền</td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Sanpham.MaSP</td>
+                            <td>@item.Sanpham.TenSP</td>
+                            <td><img src="/Content/Images/@item.Sanpham.UrlAnh" width="100" /></td>
+                            <td><input type="text" class="txtQuantity" data-id="@item.Sanpham.MaSP" value="@item.Quantity" /></td>
+                            <td>@item.Sanpham.GiaSP.GetValueOrDefault(0).ToString("N0")</td>
+                            <td>@((item.Sanpham.GiaSP.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>                            
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        }
+
+    </div>
+  <div class="section group">
+     
+      @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+            {
+                
+                    <label>Người nhận</label>
+                    <input name="Hoten" type="text" />
+              
+                    <label>Điện thoại</label>
+                    <input name="DienThoai" type="text" />
+               
+               
+                    <label>Địa chỉ</label>
+                    <input name="DiaChi" type="text" />
+               
+               
+                    <label>Email</label>
+                    <input name="Email" type="text"/>
+               <br/>
+                <button type="submit" class="btn">Gửi đơn hàng</button>
+            }
+        </div>
+       
+ </div>

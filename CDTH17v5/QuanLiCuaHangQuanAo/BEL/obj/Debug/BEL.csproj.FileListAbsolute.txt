@@ -1,0 +1,18 @@
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BEL\bin\Debug\BEL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BEL\obj\Debug\BEL.pdb

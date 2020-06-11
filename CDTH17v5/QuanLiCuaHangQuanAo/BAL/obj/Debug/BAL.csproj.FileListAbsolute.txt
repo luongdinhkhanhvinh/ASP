@@ -1,0 +1,34 @@
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\BAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\BEL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\bin\Debug\DAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\BAL\obj\Debug\BAL.pdb

@@ -1,0 +1,178 @@
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.config
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\BAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\BEL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\BAL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\BEL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Form1.resources
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Properties.Resources.resources
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csproj.GenerateResource.Cache
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\DAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\bin\Debug\DAL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Form2.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\BAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\DAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\BEL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\BAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\BEL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\DAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csprojResolveAssemblyReference.cache
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.FrmDangNhap.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.HienThiChinh.FrmTrangQuanLy.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangHienThiNhanVien.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.FrmHienThiTrangSanPham.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Properties.Resources.resources
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csproj.GenerateResource.Cache
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.config
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.config
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\BAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\BEL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\DAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\BAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\BEL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\DAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csprojResolveAssemblyReference.cache
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangBaoCao.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangDoanhThu.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangHangTon.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.FrmDangNhap.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.HienThiChinh.FrmTrangQuanLy.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoDoanhThu.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoHangTonKho.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInHoaDon.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmCapNhatKhuyenMai.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmKhuyenMai.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmThemKhuyenMai.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmCapNhatNhaNSX.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmThemNhaNSX.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmTrangNhaNSX.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmCapNhatNhanVien.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmPhanQuyen.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmThemNhanVien.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangBanHang.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangNhanVien.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Properties.Resources.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmCapNhatLoaiSP.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmLoaiSanPham.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmSanPham.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmThemLoaiSanPham.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csproj.GenerateResource.Cache
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.cache
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.compiled
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInChiTietHoaDon.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmDoiMatKhau.resources
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.manifest
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.application
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe.manifest
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.application
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.config
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.pdb
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.manifest
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.application
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.pdb
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\BAL.dll
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\BEL.dll
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\DAL.dll
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\BAL.pdb
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\BEL.pdb
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\bin\Debug\DAL.pdb
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csprojResolveAssemblyReference.cache
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangBaoCao.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangDoanhThu.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangHangTon.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.FrmDangNhap.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.HienThiChinh.FrmTrangQuanLy.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoDoanhThu.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoHangTonKho.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInChiTietHoaDon.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInHoaDon.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmCapNhatKhuyenMai.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmKhuyenMai.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmThemKhuyenMai.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmCapNhatNhaNSX.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmThemNhaNSX.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmTrangNhaNSX.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmCapNhatNhanVien.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmDoiMatKhau.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmPhanQuyen.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmThemNhanVien.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangBanHang.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangNhanVien.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Properties.Resources.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmCapNhatLoaiSP.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmLoaiSanPham.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmSanPham.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmThemLoaiSanPham.resources
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csproj.GenerateResource.Cache
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.cache
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.compiled
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe.manifest
+E:\Đồ Án CNPM\Thử Nghiêm\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.application
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.config
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe.manifest
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.application
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.exe
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\QuanLiCuaHangQuanAo.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\BAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\BEL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\DAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\BAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\BEL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\bin\Debug\DAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csprojResolveAssemblyReference.cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangBaoCao.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangDoanhThu.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.BaoCao.FrmTrangHangTon.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.FrmDangNhap.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.HienThiChinh.FrmTrangQuanLy.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoDoanhThu.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInBaoCaoHangTonKho.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInChiTietHoaDon.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.InBaoCao.FrmInHoaDon.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmCapNhatKhuyenMai.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmKhuyenMai.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.KhuyenMai.FrmThemKhuyenMai.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmCapNhatNhaNSX.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmThemNhaNSX.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhaNSX.FrmTrangNhaNSX.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmCapNhatNhanVien.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmDoiMatKhau.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmPhanQuyen.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmThemNhanVien.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangBanHang.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.NhanVien.FrmTrangNhanVien.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.Properties.Resources.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmCapNhatLoaiSP.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmLoaiSanPham.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmSanPham.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.SanPham.FrmThemLoaiSanPham.resources
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.csproj.GenerateResource.Cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\RdlCompile.compiled
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.exe.manifest
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\obj\Debug\QuanLiCuaHangQuanAo.application

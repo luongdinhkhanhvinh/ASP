@@ -1,0 +1,28 @@
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.pdb
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.dll
+D:\Learn\CodeCshape\Basic_start\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.pdb
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.dll
+E:\DoAnCNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.pdb
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.dll
+E:\Đồ Án CNPM\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\bin\Debug\DAL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\bin\Debug\BEL.pdb
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.dll
+D:\NguyenVanKhuong_LieuTranHieuHoai_TranQuocDat_Nhom17\QuanLiCuaHangQuanAo\DAL\obj\Debug\DAL.pdb

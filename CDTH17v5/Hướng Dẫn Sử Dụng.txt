@@ -1,0 +1,10 @@
+﻿+ Trang Quản Lí
+tk: admin
+pass: 1
++ Trang Bán Hàng
+tk: nv1
+pass: 1
+
+
+->Thầy  Nhớ Tạo Database Trước Khi Chạy File Script
+

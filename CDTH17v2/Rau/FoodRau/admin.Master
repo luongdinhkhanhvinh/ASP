@@ -1,0 +1,288 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="FoodRau.admin" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Trang Chủ</title>
+    <!-- Custom fonts for this template-->
+    <link href="<%=Page.ResolveUrl("~") %>Admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
+
+    <!-- Custom styles for this template-->
+    <link href="<%=Page.ResolveUrl("~") %>Admin/css/sb-admin-2.min.css" rel="stylesheet"/>
+    <link href="<%=Page.ResolveUrl("~") %>Admin/css/custom.css" rel="stylesheet" />
+    <style>
+        .tbError {
+            color: red;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="css" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="page-top">
+    <form id="form1" runat="server">
+        <!-- Page Wrapper -->
+        <div id="wrapper">
+
+            <!-- Sidebar -->
+            <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+                <li>
+                    <!-- Sidebar - Brand -->
+                    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<%=Page.ResolveUrl("~") %>Default.aspx">
+                        <div class="sidebar-brand-icon rotate-n-15">
+                            <i class="fas fa-laugh-wink"></i>
+                        </div>
+                        <div class="sidebar-brand-text mx-3">Bán Rau<sup>2</sup></div>
+                    </a>
+                </li>
+                <!-- Divider -->
+                <li><hr class="sidebar-divider my-0"></li>
+
+                <!-- Nav Item - Dashboard -->
+                <li class="nav-item">
+                    <a class="nav-link" href="<%=Page.ResolveUrl("~") %>default.aspx">
+                        <i class="fas fa-fw fa-tachometer-alt"></i>
+                        <span>Trang Chủ</span></a>
+                </li>
+
+                <!-- Divider -->
+                <li><hr class="sidebar-divider"></li>
+              
+
+                <!-- Heading -->
+                <div class="sidebar-heading">
+                    Quản Lí
+     
+                </div>
+
+                <!-- Nav Item - Pages Collapse Menu -->
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                        <i class="fas fa-users"></i>
+                        <span>Quản Lí Thành Viên</span>
+                    </a>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                        <div class="bg-white py-2 collapse-inner rounded">
+                            <h6 class="collapse-header">Show:</h6>
+                            <asp:HyperLink CssClass="collapse-item" NavigateUrl="~/Admin/member.aspx" ID="hlMember" runat="server">Thành Viên</asp:HyperLink>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/profile.aspx">Hồ sơ của bạn</a>
+                        </div>
+                    </div>
+                </li>
+
+                <!-- Nav Item - Utilities Collapse Menu -->
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="<%=Page.ResolveUrl("~") %>Admin/#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
+                        <i class="fab fa-product-hunt"></i>
+                        <span>Quản Lí Sản Phẩm</span>
+                    </a>
+                    <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+                        <div class="bg-white py-2 collapse-inner rounded">
+                            <h6 class="collapse-header">Show:</h6>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/food_type.aspx">Loại Sản Phẩm</a>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/lst_food.aspx">Sản Phẩm</a>
+                        </div>
+                    </div>
+                </li>
+
+                <!-- Nav Item - Utilities Collapse Menu -->
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="<%=Page.ResolveUrl("~") %>Admin/#" data-toggle="collapse" data-target="#collapseUtilities1" aria-expanded="true" aria-controls="collapseUtilities1">
+                        <i class="fas fa-blog"></i>
+                        <span>Bài Viết</span>
+                    </a>
+                    <div id="collapseUtilities1" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+                        <div class="bg-white py-2 collapse-inner rounded">
+                            <h6 class="collapse-header">Show:</h6>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/lst_post.aspx">Tất cả bài viết</a>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/post.aspx">Viết bài mới</a>
+
+                        </div>
+                    </div>
+                </li>
+
+                <!-- Nav Item - Utilities Collapse Menu -->
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="<%=Page.ResolveUrl("~") %>Admin/#" data-toggle="collapse" data-target="#collapseUtilities2" aria-expanded="true" aria-controls="collapseUtilities2">
+                        <i class="fas fa-money-bill"></i>
+                        <span>Quản Lí Khách Hàng</span>
+                    </a>
+                    <div id="collapseUtilities2" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+                        <div class="bg-white py-2 collapse-inner rounded">
+                            <h6 class="collapse-header">Show:</h6>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/lst_customer.aspx">Danh sách khách hàng</a>
+                            <a class="collapse-item" href="<%=Page.ResolveUrl("~") %>Admin/lst_order.aspx">Hóa Đơn</a>
+                        </div>
+                    </div>
+                </li>
+
+                <!-- Nav Item - Utilities Collapse Menu -->
+                <li class="nav-item">
+
+                    <a class="nav-link collapsed" href="<%=Page.ResolveUrl("~") %>Admin/#" data-toggle="collapse" data-target="#collapseUtilities3" aria-expanded="true" aria-controls="collapseUtilities3">
+                        <i class="far fa-sun"></i>
+                        <span>Setting</span>
+                    </a>
+                    <div id="collapseUtilities3" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+                        <div class="bg-white py-2 collapse-inner rounded">
+                            <h6 class="collapse-header">Show:</h6>
+                            <asp:HyperLink CssClass="collapse-item" ID="hlSettingNav" runat="server" NavigateUrl="~/Admin/overview.aspx"> <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                        Tổng quan
+                             </asp:HyperLink>
+                        </div>
+                    </div>
+                </li>
+
+
+                <!-- Divider -->
+                <li><hr class="sidebar-divider d-none d-md-block"></li> 
+                
+                <!-- Sidebar Toggler (Sidebar) -->
+                <li class="text-center">
+                    <div class="d-none d-md-inline">
+                    <a href="#" class="btn btn-primary rounded-circle border-0" id="sidebarToggle"></a>
+                </div>
+
+                </li> 
+               
+
+            </ul>
+            <!-- End of Sidebar -->
+
+            <!-- Content Wrapper -->
+            <div id="content-wrapper" class="d-flex flex-column">
+
+                <!-- Main Content -->
+                <div id="content">
+
+                    <!-- Topbar -->
+                    <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+                        <!-- Sidebar Toggle (Topbar) -->
+                        <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+                            <i class="fa fa-bars"></i>
+                        </button>
+
+
+                        <!-- Topbar Navbar -->
+                        <ul class="navbar-nav ml-auto">
+
+                            <div class="topbar-divider d-none d-sm-block"></div>
+
+                            <!-- Nav Item - User Information -->
+                            <li class="nav-item dropdown no-arrow">
+                                <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <asp:Label ID="lblUserName" runat="server" CssClass="mr-2 d-none d-lg-inline text-gray-600 small"></asp:Label>
+                                    <img class="img-profile rounded-circle" src="<%=Page.ResolveUrl("~") %>Admin/icon/share.png">
+                                </a>
+                                <!-- Dropdown - User Information -->
+                                <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                                    <a class="dropdown-item" href="<%=Page.ResolveUrl("~") %>Admin/profile.aspx">
+                                        <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                        Profile
+                </a>
+                                    <asp:HyperLink CssClass="dropdown-item" ID="hlSetting" runat="server" NavigateUrl="~/Admin/overview.aspx"> <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                        Settings
+                                    </asp:HyperLink>
+                                  
+                                    <div class="dropdown-divider"></div>
+                                    <div class="dropdown-item">
+                                        <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                        <a data-toggle="modal" data-target="#logoutModal" href="#">
+
+                                            <asp:Label ID="lblLogin" runat="server" Text="Logout"></asp:Label>
+                                        </a>
+
+                                    </div>
+
+
+
+                                </div>
+                            </li>
+
+                        </ul>
+
+                    </nav>
+                    <!-- End of Topbar -->
+
+                    <!-- Begin Page Content -->
+                    <div class="container-fluid">
+                        <asp:ContentPlaceHolder ID="cph_content" runat="server">
+                        </asp:ContentPlaceHolder>
+
+                    </div>
+                    <!-- /.container-fluid -->
+
+                </div>
+                <!-- End of Main Content -->
+
+                <!-- Footer -->
+                <footer class="sticky-footer bg-white">
+                    <div class="container my-auto">
+                        <div class="copyright text-center my-auto">
+                            <span>Copyright &copy; Your Website 2019</span>
+                        </div>
+                    </div>
+                </footer>
+                <!-- End of Footer -->
+
+            </div>
+            <!-- End of Content Wrapper -->
+
+        </div>
+        <!-- End of Page Wrapper -->
+
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top">
+            <i class="fas fa-angle-up"></i>
+        </a>
+
+        <!-- Logout Modal-->
+        <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">
+                            <asp:Label ID="lblModal_title" runat="server"></asp:Label>
+                        </h5>
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <asp:Label ID="lblModal_body" runat="server"></asp:Label>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                        <asp:Button ID="btnLogout" CssClass="btn btn-primary" runat="server" Text="Logout" OnClick="BtnLogout_Click" />
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bootstrap core JavaScript-->
+        <script src="<%=Page.ResolveUrl("~") %>Admin/vendor/jquery/jquery.min.js"></script>
+        <script src="<%=Page.ResolveUrl("~") %>Admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Core plugin JavaScript-->
+        <script src="<%=Page.ResolveUrl("~") %>Admin/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+        <!-- Custom scripts for all pages-->
+        <script src="<%=Page.ResolveUrl("~") %>Admin/js/sb-admin-2.min.js"></script>
+        <script src="<%=Page.ResolveUrl("~") %>Admin/js/custom/moment.js"></script>
+        <script>
+            //modal
+            function showModal() {
+                $("#myModal").modal('show');
+            }
+        </script>
+        <asp:ContentPlaceHolder ID="js" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

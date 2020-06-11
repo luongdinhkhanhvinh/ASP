@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/QuanTri/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@using CDTH17.Models.Entities;
+@model List<SanPham>
+<table class="table table-hover table-striped ">
+    <tr>
+        <td>Mã sản phẩm</td>
+        <td>Tên sản phẩm</td>
+        <td>Đơn giá</td>
+        <td> Chức năng</td>
+    </tr>
+    @foreach (SanPham dt in Model)
+    {
+        <tr>
+        <td>@dt.MaSP</td>
+        <td>@dt.TenSP</td>
+        <td>@dt.GiaSP</td>
+        <td> <a href="/Quantri/SanPhamAdmin/Edit/@dt.MaSP"> Sửa</a>|<a href="/Quantri/SanPhamAdmin/Delete/@dt.MaSP"> Sửa</a></td>
+    </tr>
+    }
+</table>

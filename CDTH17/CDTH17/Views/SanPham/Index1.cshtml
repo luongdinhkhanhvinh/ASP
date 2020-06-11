@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+@using CDTH17.Models.Entities;
+@model List<SanPham>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @foreach (SanPham dt in Model)
+        {
+            <h2> @dt.TenSP</h2>
+            <img src="\Content\Images\@dt.Anh" />
+        }
+    </div>
+    Của ViewBag:
+    @{SanPham obj = ViewBag.SP;}
+    <h1>@obj.TenSP</h1>
+
+</body>
+</html>
